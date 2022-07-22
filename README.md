@@ -1,2 +1,3 @@
 # autoMerge
-adding one commit
+adding one commit </br>
+LGTM commit
